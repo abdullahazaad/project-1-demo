@@ -1,4 +1,4 @@
 # project-1-demo
-This is my first repository.
+This is my first repository
 <br>
-Author: Abdullah Mahmood
+Author : Abdullah Mahmood
